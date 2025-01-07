@@ -1,3 +1,4 @@
+[![Build and Deploy](https://github.com/Ludoo-coding/Test-Projekt/actions/workflows/pages.yml/badge.svg)](https://github.com/Ludoo-coding/Test-Projekt/actions/workflows/pages.yml)
 # Test-Projekt
 
 Only a little Test Projekt
