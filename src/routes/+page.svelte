@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+	import '../app.css';
+	let { children } = $props();
+</script>
+
+<div class="justify-center w-5">
+    TEST SEITE!
+</div>
